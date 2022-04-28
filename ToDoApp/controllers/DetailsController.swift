@@ -1,19 +1,16 @@
 //
-//  ViewController.swift
+//  DetailsController.swift
 //  ToDoApp
 //
 //  Created by Алилуя БК on 28.04.2022.
 //
 
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
-
+class DetailsController: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
-
